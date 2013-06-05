@@ -156,7 +156,6 @@ ul.icons-ul > li .icon-li {
 /* Bootstrap 2.0 sprites.less reset */
 [class^="icon-"],
 [class*=" icon-"] {
-  display: inline;
   width: auto;
   height: auto;
   line-height: normal;
